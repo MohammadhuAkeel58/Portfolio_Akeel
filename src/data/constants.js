@@ -167,7 +167,7 @@ export const projects = [
       "Hanzee Construction is a web application designed to add and manage employee,customer,stocks and logistics details in a construction company.",
     image:
       "https://raw.githubusercontent.com/MohammadhuAkeel58/DisasterManagement_FullStack/main/Frontend_Nature_Disaster_System/nature-disaster/src/IMG/web.png",
-    tags: ["React Js", "FireBase", "Tailwind CSS"],
+    tags: ["React Js", "FireBase", "Tailwind CSS", "Serverless"],
     category: "web app",
     github: "https://github.com/MohammadhuAkeel58/DisasterManagement_FullStack",
   },
